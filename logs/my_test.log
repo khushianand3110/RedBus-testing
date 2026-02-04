@@ -1,0 +1,297 @@
+2026-02-04 12:53:55,257 - root - INFO - ========== Test Session Started ==========
+2026-02-04 12:54:02,594 - root - INFO - BusBooking class initialized
+2026-02-04 12:54:02,595 - root - INFO - Clicking on FROM city input
+2026-02-04 12:54:05,116 - root - INFO - Entering FROM city name: del
+2026-02-04 12:54:05,404 - root - INFO - Waiting for city suggestions
+2026-02-04 12:54:08,674 - root - INFO -  successfully automated
+2026-02-04 12:54:08,674 - root - INFO - Locating TO city input field
+2026-02-04 12:54:08,833 - root - INFO - Dehradun option found, clicking it
+2026-02-04 12:54:08,966 - root - INFO - Yes its clicked
+2026-02-04 12:54:08,967 - root - INFO - Opening date picker
+2026-02-04 12:54:09,893 - root - INFO - Selecting travel date: 28
+2026-02-04 12:54:10,047 - root - INFO - Date selected successfully
+2026-02-04 12:54:10,047 - root - INFO - Clicking on 'Booking for Women' option
+2026-02-04 12:54:10,637 - root - INFO - 'Booking for Women' flow completed
+2026-02-04 12:54:10,637 - root - INFO - Clicking on Search Buses button
+2026-02-04 12:54:12,405 - root - INFO - Search bus button clicked successfully
+2026-02-04 14:54:19,001 - root - INFO - ========== Test Session Started ==========
+2026-02-04 15:01:51,112 - root - INFO - ========== Test Session Started ==========
+2026-02-04 15:01:56,357 - root - INFO - BusBooking class initialized
+2026-02-04 15:01:56,357 - root - INFO - Clicking on FROM city input
+2026-02-04 15:01:58,971 - root - INFO - Entering FROM city name: del
+2026-02-04 15:01:59,571 - root - INFO - Waiting for city suggestions
+2026-02-04 15:02:02,728 - root - INFO -  successfully automated
+2026-02-04 15:02:02,728 - root - INFO - Locating TO city input field
+2026-02-04 15:02:02,827 - root - INFO - Dehradun option found, clicking it
+2026-02-04 15:02:02,955 - root - INFO - Yes its clicked
+2026-02-04 15:02:02,955 - root - INFO - Opening date picker
+2026-02-04 15:02:03,847 - root - INFO - Selecting travel date: 28
+2026-02-04 15:02:04,015 - root - INFO - Date selected successfully
+2026-02-04 15:02:04,015 - root - INFO - Clicking on 'Booking for Women' option
+2026-02-04 15:02:04,515 - root - INFO - 'Booking for Women' flow completed
+2026-02-04 15:02:04,515 - root - INFO - Clicking on Search Buses button
+2026-02-04 15:02:05,978 - root - INFO - Search bus button clicked successfully
+2026-02-04 15:02:15,249 - root - INFO - BusBooking class initialized
+2026-02-04 15:02:15,250 - root - INFO - Clicking on FROM city input
+2026-02-04 15:02:15,513 - root - INFO - Entering FROM city name: del
+2026-02-04 15:02:15,922 - root - INFO - Waiting for city suggestions
+2026-02-04 15:02:19,209 - root - INFO -  successfully automated
+2026-02-04 15:02:19,209 - root - INFO - Locating TO city input field
+2026-02-04 15:02:19,753 - root - INFO - Yes its clicked
+2026-02-04 15:02:19,753 - root - INFO - Opening date picker
+2026-02-04 15:02:20,591 - root - INFO - Selecting travel date: 28
+2026-02-04 15:02:20,739 - root - INFO - Date selected successfully
+2026-02-04 15:02:20,739 - root - INFO - Clicking on 'Booking for Women' option
+2026-02-04 15:02:21,264 - root - INFO - 'Booking for Women' flow completed
+2026-02-04 15:02:21,264 - root - INFO - Clicking on Search Buses button
+2026-02-04 15:02:21,437 - root - INFO - Search bus button clicked successfully
+2026-02-04 15:02:23,438 - root - INFO - Scrolling to load bus type filter
+2026-02-04 15:02:39,585 - root - INFO - Bus type filter applied
+2026-02-04 15:02:39,585 - root - INFO - Selecting bus type filters (AC, SLEEPER)
+2026-02-04 15:02:49,603 - root - INFO - Bus type options selected
+2026-02-04 15:02:49,604 - root - INFO - Scrolling to load Amenities filter
+2026-02-04 15:03:04,678 - root - INFO - Amenities filter opened
+2026-02-04 15:03:04,679 - root - INFO - Selecting Amenities options (Blankets, Charging Point)
+2026-02-04 15:03:14,704 - root - INFO - Amenities selected successfully
+2026-02-04 15:03:14,705 - root - INFO - Scrolling to view available buses
+2026-02-04 15:03:24,541 - root - INFO - BusBooking class initialized
+2026-02-04 15:03:24,542 - root - INFO - Clicking on FROM city input
+2026-02-04 15:03:25,113 - root - INFO - Entering FROM city name: del
+2026-02-04 15:03:25,949 - root - INFO - Waiting for city suggestions
+2026-02-04 15:03:29,134 - root - INFO -  successfully automated
+2026-02-04 15:03:29,134 - root - INFO - Locating TO city input field
+2026-02-04 15:03:29,257 - root - INFO - Dehradun option found, clicking it
+2026-02-04 15:03:29,413 - root - INFO - Yes its clicked
+2026-02-04 15:03:29,414 - root - INFO - Opening date picker
+2026-02-04 15:03:30,250 - root - INFO - Selecting travel date: 28
+2026-02-04 15:03:30,375 - root - INFO - Date selected successfully
+2026-02-04 15:03:30,376 - root - INFO - Clicking on 'Booking for Women' option
+2026-02-04 15:03:30,973 - root - INFO - 'Booking for Women' flow completed
+2026-02-04 15:03:30,974 - root - INFO - Clicking on Search Buses button
+2026-02-04 15:03:32,520 - root - INFO - Search bus button clicked successfully
+2026-02-04 15:03:34,521 - root - INFO - Scrolling to load bus type filter
+2026-02-04 15:03:40,701 - root - INFO - Clicking Bus type filter
+2026-02-04 15:03:41,066 - root - INFO - Bus type filter applied
+2026-02-04 15:03:41,066 - root - INFO - Selecting bus type filters (AC, SLEEPER)
+2026-02-04 15:03:43,755 - root - INFO - Bus type options selected
+2026-02-04 15:03:43,755 - root - INFO - Scrolling to load Amenities filter
+2026-02-04 15:03:49,432 - root - INFO - Clicking Amenities filter
+2026-02-04 15:03:49,631 - root - INFO - Amenities filter opened
+2026-02-04 15:03:49,632 - root - INFO - Selecting Amenities options (Blankets, Charging Point)
+2026-02-04 15:03:51,015 - root - INFO - Amenities selected successfully
+2026-02-04 15:03:51,015 - root - INFO - Scrolling to view available buses
+2026-02-04 15:04:03,821 - root - INFO - Clicking on 'Check PNR status' option
+2026-02-04 15:04:06,438 - root - INFO - Clicking PNR input container
+2026-02-04 15:04:06,582 - root - INFO - Entering PNR number: 1234567890
+2026-02-04 15:04:10,454 - root - INFO - PNR status displayed, navigating back
+2026-02-04 15:04:14,161 - root - INFO - Returned from PNR status screen
+2026-02-04 15:04:14,161 - root - INFO - Selecting 'Live train status' option
+2026-02-04 15:04:18,614 - root - INFO - Clicking train number input box
+2026-02-04 15:04:20,148 - root - INFO - Entering train number: 1231
+2026-02-04 15:04:21,087 - root - INFO - Matching train found: 12312 Netaji Express
+2026-02-04 15:04:21,243 - root - INFO - Train selected successfully
+2026-02-04 15:04:26,452 - root - INFO - Live train status displayed
+2026-02-04 15:04:34,324 - root - INFO - Clicking on Account option
+2026-02-04 15:04:34,860 - root - INFO - Account option clicked
+2026-02-04 15:04:34,861 - root - INFO - Navigating to Bookings section
+2026-02-04 15:04:40,040 - root - INFO - Navigating to Bookings section
+2026-02-04 15:04:40,040 - root - INFO - Clicking back to home link
+2026-02-04 15:04:40,630 - root - INFO - Opening Account menu again
+2026-02-04 15:04:43,580 - root - INFO - Opening Account menu again
+2026-02-04 15:04:45,200 - root - INFO - Selecting an offer from offers list
+2026-02-04 15:04:45,645 - root - INFO - Closing offer popup
+2026-02-04 15:04:47,830 - root - INFO - Scrolling back up to top
+2026-02-04 15:04:49,953 - root - INFO - Clicking Home from breadcrumb
+2026-02-04 15:04:53,049 - root - INFO - Offers flow completed successfully
+2026-02-04 15:05:00,719 - root - INFO - BusBooking class initialized
+2026-02-04 15:05:00,719 - root - INFO - Clicking on FROM city input
+2026-02-04 15:05:01,048 - root - INFO - Entering FROM city name: del
+2026-02-04 15:05:02,368 - root - INFO - Waiting for city suggestions
+2026-02-04 15:05:05,562 - root - INFO -  successfully automated
+2026-02-04 15:05:05,563 - root - INFO - Locating TO city input field
+2026-02-04 15:05:05,670 - root - INFO - Dehradun option found, clicking it
+2026-02-04 15:05:05,825 - root - INFO - Yes its clicked
+2026-02-04 15:05:05,826 - root - INFO - Opening date picker
+2026-02-04 15:05:06,711 - root - INFO - Selecting travel date: 28
+2026-02-04 15:05:06,849 - root - INFO - Date selected successfully
+2026-02-04 15:05:06,850 - root - INFO - Clicking on 'Booking for Women' option
+2026-02-04 15:05:07,463 - root - INFO - 'Booking for Women' flow completed
+2026-02-04 15:05:07,464 - root - INFO - Clicking on Search Buses button
+2026-02-04 15:05:09,056 - root - INFO - Search bus button clicked successfully
+2026-02-04 15:05:11,056 - root - INFO - Scrolling to load bus type filter
+2026-02-04 15:05:17,233 - root - INFO - Clicking Bus type filter
+2026-02-04 15:05:17,608 - root - INFO - Bus type filter applied
+2026-02-04 15:05:17,608 - root - INFO - Selecting bus type filters (AC, SLEEPER)
+2026-02-04 15:05:20,081 - root - INFO - Bus type options selected
+2026-02-04 15:05:20,082 - root - INFO - Scrolling to load Amenities filter
+2026-02-04 15:05:25,760 - root - INFO - Clicking Amenities filter
+2026-02-04 15:05:26,074 - root - INFO - Amenities filter opened
+2026-02-04 15:05:26,075 - root - INFO - Selecting Amenities options (Blankets, Charging Point)
+2026-02-04 15:05:27,248 - root - INFO - Amenities selected successfully
+2026-02-04 15:05:27,248 - root - INFO - Scrolling to view available buses
+2026-02-04 15:05:37,466 - root - INFO - Scrolling to FAQ section
+2026-02-04 15:05:51,324 - root - INFO - Looking for 'Cancellation & Refund' section
+2026-02-04 15:05:51,542 - root - INFO - FAQ section displayed
+2026-02-04 15:05:51,543 - root - INFO - Searching for FAQ question
+2026-02-04 15:05:52,585 - root - INFO - FAQ question clicked
+2026-02-04 15:05:52,585 - root - INFO - Fetching FAQ answer text
+2026-02-04 15:05:53,048 - root - INFO - FAQ answer printed in terminal
+2026-02-04 15:05:53,049 - root - INFO - Scrolling to Popular Cities section
+2026-02-04 15:05:56,476 - root - INFO - Fetching list of popular cities
+2026-02-04 15:06:02,381 - root - INFO - Popular cities list displayed
+2026-02-04 15:07:48,223 - root - INFO - ========== Test Session Started ==========
+2026-02-04 15:07:53,753 - root - INFO - BusBooking class initialized
+2026-02-04 15:07:53,753 - root - INFO - Clicking on FROM city input
+2026-02-04 15:07:55,432 - root - INFO - Entering FROM city name: del
+2026-02-04 15:07:56,348 - root - INFO - Waiting for city suggestions
+2026-02-04 15:07:59,554 - root - INFO -  successfully automated
+2026-02-04 15:07:59,555 - root - INFO - Locating TO city input field
+2026-02-04 15:07:59,698 - root - INFO - Dehradun option found, clicking it
+2026-02-04 15:07:59,948 - root - INFO - Yes its clicked
+2026-02-04 15:07:59,949 - root - INFO - Opening date picker
+2026-02-04 15:08:01,147 - root - INFO - Selecting travel date: 28
+2026-02-04 15:08:01,327 - root - INFO - Date selected successfully
+2026-02-04 15:08:01,328 - root - INFO - Clicking on 'Booking for Women' option
+2026-02-04 15:08:01,961 - root - INFO - 'Booking for Women' flow completed
+2026-02-04 15:08:01,962 - root - INFO - Clicking on Search Buses button
+2026-02-04 15:08:03,698 - root - INFO - Search bus button clicked successfully
+2026-02-04 15:08:05,698 - root - INFO - Scrolling to load bus type filter
+2026-02-04 15:08:12,757 - root - INFO - Clicking Bus type filter
+2026-02-04 15:08:13,055 - root - INFO - Bus type filter applied
+2026-02-04 15:08:13,055 - root - INFO - Selecting bus type filters (AC, SLEEPER)
+2026-02-04 15:08:14,871 - root - INFO - Bus type options selected
+2026-02-04 15:08:14,872 - root - INFO - Scrolling to load Amenities filter
+2026-02-04 15:08:20,250 - root - INFO - Clicking Amenities filter
+2026-02-04 15:08:20,452 - root - INFO - Amenities filter opened
+2026-02-04 15:08:20,452 - root - INFO - Selecting Amenities options (Blankets, Charging Point)
+2026-02-04 15:08:21,213 - root - INFO - Amenities selected successfully
+2026-02-04 15:08:21,213 - root - INFO - Scrolling to view available buses
+2026-02-04 15:11:58,370 - root - INFO - ========== Test Session Started ==========
+2026-02-04 15:12:03,938 - root - INFO - BusBooking class initialized
+2026-02-04 15:12:03,939 - root - INFO - Clicking on FROM city input
+2026-02-04 15:12:04,419 - root - INFO - Entering FROM city name: del
+2026-02-04 15:12:05,080 - root - INFO - Waiting for city suggestions
+2026-02-04 15:12:08,331 - root - INFO -  successfully automated
+2026-02-04 15:12:08,332 - root - INFO - Locating TO city input field
+2026-02-04 15:12:08,739 - root - INFO - Yes its clicked
+2026-02-04 15:12:08,739 - root - INFO - Opening date picker
+2026-02-04 15:12:09,610 - root - INFO - Selecting travel date: 28
+2026-02-04 15:12:09,789 - root - INFO - Date selected successfully
+2026-02-04 15:12:09,789 - root - INFO - Clicking on 'Booking for Women' option
+2026-02-04 15:12:10,237 - root - INFO - 'Booking for Women' flow completed
+2026-02-04 15:12:10,238 - root - INFO - Clicking on Search Buses button
+2026-02-04 15:12:10,387 - root - INFO - Search bus button clicked successfully
+2026-02-04 15:12:12,387 - root - INFO - Scrolling to load bus type filter
+2026-02-04 15:12:24,912 - root - INFO - ========== Test Session Started ==========
+2026-02-04 15:12:29,630 - root - INFO - BusBooking class initialized
+2026-02-04 15:12:29,630 - root - INFO - Clicking on FROM city input
+2026-02-04 15:12:30,606 - root - INFO - Entering FROM city name: del
+2026-02-04 15:12:31,339 - root - INFO - Waiting for city suggestions
+2026-02-04 15:12:34,532 - root - INFO -  successfully automated
+2026-02-04 15:12:34,532 - root - INFO - Locating TO city input field
+2026-02-04 15:12:34,650 - root - INFO - Dehradun option found, clicking it
+2026-02-04 15:12:34,793 - root - INFO - Yes its clicked
+2026-02-04 15:12:34,794 - root - INFO - Opening date picker
+2026-02-04 15:12:35,622 - root - INFO - Selecting travel date: 28
+2026-02-04 15:12:35,748 - root - INFO - Date selected successfully
+2026-02-04 15:12:35,749 - root - INFO - Clicking on 'Booking for Women' option
+2026-02-04 15:12:36,257 - root - INFO - 'Booking for Women' flow completed
+2026-02-04 15:12:36,257 - root - INFO - Clicking on Search Buses button
+2026-02-04 15:12:37,796 - root - INFO - Search bus button clicked successfully
+2026-02-04 15:12:39,798 - root - INFO - Scrolling to load bus type filter
+2026-02-04 15:12:46,077 - root - INFO - Clicking Bus type filter
+2026-02-04 15:12:46,516 - root - INFO - Bus type filter applied
+2026-02-04 15:12:46,517 - root - INFO - Selecting bus type filters (AC, SLEEPER)
+2026-02-04 15:12:48,565 - root - INFO - Bus type options selected
+2026-02-04 15:12:48,566 - root - INFO - Scrolling to load Amenities filter
+2026-02-04 15:12:54,021 - root - INFO - Clicking Amenities filter
+2026-02-04 15:12:54,269 - root - INFO - Amenities filter opened
+2026-02-04 15:12:54,269 - root - INFO - Selecting Amenities options (Blankets, Charging Point)
+2026-02-04 15:12:55,409 - root - INFO - Amenities selected successfully
+2026-02-04 15:12:55,409 - root - INFO - Scrolling to view available buses
+2026-02-04 15:14:50,364 - root - INFO - ========== Test Session Started ==========
+2026-02-04 15:14:54,957 - root - INFO - BusBooking class initialized
+2026-02-04 15:14:54,957 - root - INFO - Clicking on FROM city input
+2026-02-04 15:14:55,933 - root - INFO - Entering FROM city name: del
+2026-02-04 15:14:56,704 - root - INFO - Waiting for city suggestions
+2026-02-04 15:14:59,851 - root - INFO -  successfully automated
+2026-02-04 15:14:59,851 - root - INFO - Locating TO city input field
+2026-02-04 15:14:59,960 - root - INFO - Dehradun option found, clicking it
+2026-02-04 15:15:00,101 - root - INFO - Yes its clicked
+2026-02-04 15:15:00,101 - root - INFO - Opening date picker
+2026-02-04 15:15:00,834 - root - INFO - Selecting travel date: 28
+2026-02-04 15:15:00,986 - root - INFO - Date selected successfully
+2026-02-04 15:15:00,986 - root - INFO - Clicking on 'Booking for Women' option
+2026-02-04 15:15:01,439 - root - INFO - 'Booking for Women' flow completed
+2026-02-04 15:15:01,440 - root - INFO - Clicking on Search Buses button
+2026-02-04 15:15:02,868 - root - INFO - Search bus button clicked successfully
+2026-02-04 15:15:04,869 - root - INFO - Scrolling to load bus type filter
+2026-02-04 15:15:11,076 - root - INFO - Clicking Bus type filter
+2026-02-04 15:15:11,431 - root - INFO - Bus type filter applied
+2026-02-04 15:15:11,432 - root - INFO - Selecting bus type filters (AC, SLEEPER)
+2026-02-04 15:15:13,832 - root - INFO - Bus type options selected
+2026-02-04 15:15:13,832 - root - INFO - Scrolling to load Amenities filter
+2026-02-04 15:15:19,096 - root - INFO - Clicking Amenities filter
+2026-02-04 15:15:19,351 - root - INFO - Amenities filter opened
+2026-02-04 15:15:19,351 - root - INFO - Selecting Amenities options (Blankets, Charging Point)
+2026-02-04 15:15:20,876 - root - INFO - Amenities selected successfully
+2026-02-04 15:15:20,876 - root - INFO - Scrolling to view available buses
+2026-02-04 15:15:25,617 - root - INFO - Bus selected and seats view opened
+2026-02-04 15:16:46,300 - root - INFO - ========== Test Session Started ==========
+2026-02-04 15:16:50,966 - root - INFO - BusBooking class initialized
+2026-02-04 15:16:50,967 - root - INFO - Clicking on FROM city input
+2026-02-04 15:16:51,274 - root - INFO - Entering FROM city name: del
+2026-02-04 15:16:51,679 - root - INFO - Waiting for city suggestions
+2026-02-04 15:16:55,290 - root - INFO -  successfully automated
+2026-02-04 15:16:55,291 - root - INFO - Locating TO city input field
+2026-02-04 15:16:55,392 - root - INFO - Dehradun option found, clicking it
+2026-02-04 15:16:55,521 - root - INFO - Yes its clicked
+2026-02-04 15:16:55,521 - root - INFO - Opening date picker
+2026-02-04 15:16:56,389 - root - INFO - Selecting travel date: 28
+2026-02-04 15:16:56,508 - root - INFO - Date selected successfully
+2026-02-04 15:16:56,508 - root - INFO - Clicking on 'Booking for Women' option
+2026-02-04 15:16:57,034 - root - INFO - 'Booking for Women' flow completed
+2026-02-04 15:16:57,035 - root - INFO - Clicking on Search Buses button
+2026-02-04 15:16:58,408 - root - INFO - Search bus button clicked successfully
+2026-02-04 15:17:00,409 - root - INFO - Scrolling to load bus type filter
+2026-02-04 15:17:06,558 - root - INFO - Clicking Bus type filter
+2026-02-04 15:17:06,875 - root - INFO - Bus type filter applied
+2026-02-04 15:17:06,875 - root - INFO - Selecting bus type filters (AC, SLEEPER)
+2026-02-04 15:17:09,838 - root - INFO - Bus type options selected
+2026-02-04 15:17:09,839 - root - INFO - Scrolling to load Amenities filter
+2026-02-04 15:17:15,364 - root - INFO - Clicking Amenities filter
+2026-02-04 15:17:15,629 - root - INFO - Amenities filter opened
+2026-02-04 15:17:15,629 - root - INFO - Selecting Amenities options (Blankets, Charging Point)
+2026-02-04 15:17:16,743 - root - INFO - Amenities selected successfully
+2026-02-04 15:17:16,744 - root - INFO - Scrolling to view available buses
+2026-02-04 15:17:21,363 - root - INFO - Bus selected and seats view opened
+2026-02-04 15:17:21,363 - root - INFO - Initializing SeatPoints class and locators
+2026-02-04 15:17:21,364 - root - INFO - Fetching available seats
+2026-02-04 15:17:21,631 - root - INFO - Clicking on seat index 1
+2026-02-04 15:17:23,632 - root - INFO - Seat selected successfully
+2026-02-04 15:17:23,634 - root - INFO - Clicking boarding & dropping points button
+2026-02-04 15:17:23,870 - root - INFO - Boarding & dropping points button clicked
+2026-02-04 15:17:23,870 - root - INFO - Fetching boarding points list
+2026-02-04 15:17:24,103 - root - INFO - Boarding point selected successfully
+2026-02-04 15:17:24,103 - root - INFO - Fetching dropping points list
+2026-02-04 15:17:24,420 - root - INFO - Dropping point selected successfully
+2026-02-04 15:17:27,421 - root - INFO - SeatPoints flow completed
+2026-02-04 15:17:27,421 - root - INFO - Clicking phone number field
+2026-02-04 15:17:27,548 - root - INFO - Entering phone number: 9786434567
+2026-02-04 15:17:27,692 - root - INFO - Phone number entered successfully
+2026-02-04 15:17:27,693 - root - INFO - Clicking email input field
+2026-02-04 15:17:28,082 - root - INFO - Email id entered successfully
+2026-02-04 15:17:28,082 - root - INFO - Selecting state of residence
+2026-02-04 15:17:34,497 - root - INFO - Selecting Bihar from suggestions
+2026-02-04 15:17:34,698 - root - INFO - State selected successfully
+2026-02-04 15:17:34,699 - root - INFO - Scrolling to passenger name section
+2026-02-04 15:17:35,032 - root - INFO - Passenger name entered successfully
+2026-02-04 15:17:35,033 - root - INFO - Entering passenger age
+2026-02-04 15:17:35,326 - root - INFO - Passenger age entered successfully
+2026-02-04 15:17:35,326 - root - INFO - Selecting gender as Female
+2026-02-04 15:17:35,593 - root - INFO - Gender selected successfully
+2026-02-04 15:17:35,594 - root - INFO - Scrolling to bus assurance section
+2026-02-04 15:17:35,667 - root - INFO - Bus assurance text captured: If your bus gets cancelled, you get
+2026-02-04 15:17:35,667 - root - INFO - Selecting trip protection option
+2026-02-04 15:17:35,840 - root - INFO - Trip protection selected
+2026-02-04 15:17:41,174 - root - INFO - Continue button clicked successfully
