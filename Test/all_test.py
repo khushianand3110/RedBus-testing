@@ -7,7 +7,6 @@ from FAQ.FAQ_Related import Related
 from PNR_status.PNR import PNRstatus
 from Train_ticket.train_booking import Trainbooking
 
-
 def test_bus_ticket(driver):
     book = BusBooking(driver)
     book.bus_from("del")
